@@ -15,9 +15,7 @@ Le projet vise à développer une application web utilisant Java Server Faces (J
 - Suppression : Retirer les employés du système de manière sécurisée, en évitant toute perte d'informations importantes.
 
 
-# Base de données
 
-![54](https://github.com/ayaberhil/TP_JSF/assets/147451152/c56ee239-8080-441e-819f-48b58c1d6283)
 
 # Page d'authentification
 

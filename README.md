@@ -2,11 +2,11 @@
 Le projet vise à développer une application web utilisant Java Server Faces (JSF) pour la gestion des employés au sein d'une entreprise en fonction de leurs services respectifs. L'application permettra la réalisation des opérations CRUD (Créer, Lire, Mettre à jour, Supprimer) sur les données des employés organisées par services.
 
 # Prérequis
-&#9679; Java Server Faces (JSF)
-&#9679; Java EE (Enterprise Edition)
-&#9679; Java Persistence API (JPA):
-&#9679; MySQL
-&#9679; PrimeFaces
+- Java Server Faces (JSF)
+- Java EE (Enterprise Edition)
+- Java Persistence API (JPA):
+- MySQL
+- PrimeFaces
 
 # Fonctionnalitées clés
 - Création d'Employés : Ajouter de nouveaux membres au sein de l'entreprise en spécifiant leur service d'affectation.

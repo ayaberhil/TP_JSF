@@ -69,12 +69,12 @@ Le projet vise à développer une application web utilisant Java Server Faces (J
 
 ![65](https://github.com/ayaberhil/TP_JSF/assets/147451152/17fed768-49a2-47e8-9585-3c3fc0d74a58)
 
-#Filtrage
+# Filtrage
 
 ![66](https://github.com/ayaberhil/TP_JSF/assets/147451152/e2bcf102-136a-46a6-9c70-8d40f3310515)
 
 
-#Conclusion
+# Conclusion
 Faciliter la gestion des ressources humaines au sein de l'entreprise en fournissant une interface conviviale et efficace permettant aux utilisateurs d'effectuer facilement des opérations liées aux employés, tout en organisant les données de manière claire et structurée par services.
 
 # Set Up

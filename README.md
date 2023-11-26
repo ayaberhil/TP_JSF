@@ -18,6 +18,10 @@ Le projet vise à développer une application web utilisant Java Server Faces (J
 # Base de données
 ![54](https://github.com/ayaberhil/TP_JSF/assets/147451152/c56ee239-8080-441e-819f-48b58c1d6283)
 
+# Page d'authentification
+![53](https://github.com/ayaberhil/TP_JSF/assets/147451152/82e304c5-597c-433f-bba3-80c44fcde876)
+
+
 # Gestion des Services
 
   &#9679; Ajout

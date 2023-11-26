@@ -69,9 +69,10 @@ Le projet vise à développer une application web utilisant Java Server Faces (J
 
 ![65](https://github.com/ayaberhil/TP_JSF/assets/147451152/17fed768-49a2-47e8-9585-3c3fc0d74a58)
 
-# Filtrage
+# Filtrage et Affichage des chefs des services avec leurs employés
 
-![66](https://github.com/ayaberhil/TP_JSF/assets/147451152/e2bcf102-136a-46a6-9c70-8d40f3310515)
+![70](https://github.com/ayaberhil/TP_JSF/assets/147451152/4bf71d4e-553f-4aae-a021-e0785569d011)
+
 
 
 # Conclusion
